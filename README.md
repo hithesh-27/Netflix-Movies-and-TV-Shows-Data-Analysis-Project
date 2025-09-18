@@ -1,6 +1,8 @@
 # Netflix-Movies-and-TV-Shows-Data-Analysis-Project
 
 ![Netflix Logo](https://github.com/hithesh-27/Netflix-Movies-and-TV-Shows-Data-Analysis-Project/blob/main/netflix_image.jpeg)
+
+
 📝 Project Overview
 
 This project analyzes the Netflix Movies and TV Shows dataset (imported from Kaggle) using PostgreSQL.
