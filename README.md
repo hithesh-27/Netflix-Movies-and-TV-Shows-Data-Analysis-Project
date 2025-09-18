@@ -142,4 +142,4 @@ Aggregations (COUNT, GROUP BY)
 
 ---
 
-Would you like me to also write a short one-paragraph GitHub summary (like what usually goes on top of the repo in the README) so it looks clean for recruiters?
+
